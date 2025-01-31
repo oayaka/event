@@ -143,30 +143,3 @@ class SettingScreen extends StatelessWidget {
 
 
 
-
-
-// // setting.dart
-// import 'package:flutter/material.dart';
-
-// class SettingScreen extends StatelessWidget {
-//   const SettingScreen({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: const Text('設定'),
-//       ),
-//       body: Padding(
-//         padding: const EdgeInsets.all(16.0),
-//         child: Column(
-//           crossAxisAlignment: CrossAxisAlignment.start,
-//           children: const [
-//             Text('ここに設定項目を追加できます。', style: TextStyle(fontSize: 18)),
-//             // 他の設定項目をここに追加できます
-//           ],
-//         ),
-//       ),
-//     );
-//   }
-// }
